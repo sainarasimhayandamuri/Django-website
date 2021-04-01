@@ -12,4 +12,4 @@
 ```
 STATICFILES_DIRS = [os.path.join(BASE_DIR),'static']
 ```
-7.atlast include update the path in url.py and return request in views.py file
+7. Atlast include update the path in url.py and return request in views.py file
